@@ -1,0 +1,132 @@
+[
+	{
+		"podcast_title": "Machine Learning Street Talk (MLST)",
+		"rss_feed_url": "https://anchor.fm/s/1e4a0eac/podcast/rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "This Day in AI",
+		"rss_feed_url": "https://feeds.transistor.fm/this-day-in-ai",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "The TWIML AI Podcast",
+		"rss_feed_url": "https://feeds.megaphone.fm/MLN2155636147",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Gradient Dissent",
+		"rss_feed_url": "https://feeds.captivate.fm/gradient-dissent/",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "The AI Podcast by NVIDIA",
+		"rss_feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:264034133/sounds.rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Hard Fork",
+		"rss_feed_url": "https://feeds.simplecast.com/l2i9YnTd",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Latent Space: The AI Engineer Podcast",
+		"rss_feed_url": "https://api.substack.com/feed/podcast/1084089.rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "No Priors",
+		"rss_feed_url": "https://feeds.megaphone.fm/nopriors",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "The Cognitive Revolution",
+		"rss_feed_url": "https://feeds.megaphone.fm/RINTP3108857801",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Practical AI",
+		"rss_feed_url": "https://changelog.com/practicalai/feed",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "DeepMind: The Podcast",
+		"rss_feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Eye on AI",
+		"rss_feed_url": "https://aneyeonai.libsyn.com/rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "AI Today",
+		"rss_feed_url": "https://feeds.buzzsprout.com/2502664.rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "The AI in Business Podcast",
+		"rss_feed_url": "https://techemergence.libsyn.com/rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Last Week in AI",
+		"rss_feed_url": "https://feed.podbean.com/lastweekinai/feed.xml",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Brain Inspired",
+		"rss_feed_url": "https://braininspired.co/feed/podcast",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Machine Learning Guide",
+		"rss_feed_url": "http://machinelearningguide.libsyn.com/rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "The Gradient Podcast",
+		"rss_feed_url": "https://api.substack.com/feed/podcast/265424/s/1354.rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "High Agency",
+		"rss_feed_url": "https://feeds.transistor.fm/high-agency",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Me, Myself, and AI",
+		"rss_feed_url": "https://feeds.megaphone.fm/BCG7756403658",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Data Skeptic",
+		"rss_feed_url": "https://dataskeptic.libsyn.com/rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "The AI Breakdown",
+		"rss_feed_url": "https://feeds.libsyn.com/468519/rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "AI For Humans",
+		"rss_feed_url": "https://feeds.megaphone.fm/MRGN4452563350",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "AXRP - The AI X-risk Research Podcast",
+		"rss_feed_url": "https://axrpodcast.libsyn.com/rss",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Adventures in Machine Learning",
+		"rss_feed_url": "https://www.spreaker.com/show/6102041/episodes/feed",
+		"transcribed_status": false
+	},
+	{
+		"podcast_title": "Learning Machines 101",
+		"rss_feed_url": "http://learningmachines101.libsyn.com/rss",
+		"transcribed_status": false
+	}
+]
