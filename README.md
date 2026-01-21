@@ -2,6 +2,23 @@
 
 Interactive Podcast Discovery (IPD) is a visual analytics system that transforms raw podcast audio into an interactive semantic landscape. Our system combines LLM-based transcript segmentation with an interactive visualization to enable podcast discovery. Users can explore content through a 2D interactive cluster map with semantic zoom, complemented by a LLM interface. This dual-interface approach addresses the challenge of discovering relevant content within audio podcasts.
 
+## Screens
+
+### Cluster View
+
+![Cluster View](docs/screens/cluster_view.png)
+*2D UMAP visualization where podcast segments are grouped by topic with semantic zoom levels.*
+
+### Visual Search
+
+![Visual Search](docs/screens/visual_search.png)
+*LLM-powered search that highlights relevant segments and topics on the cluster view.*
+
+### Audio Pipeline
+
+![Audio Pipeline](docs/screens/audio_pipeline.png)
+*Data preprocessing pipeline from podcast RSS feeds to the final 2D semantic map.*
+
 ---
 
 ## Run Dash Visualization
